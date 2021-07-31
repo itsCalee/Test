@@ -216,7 +216,7 @@ public class Pregunta01 extends JFrame implements ActionListener {
 		}
 	}
 	protected void actionPerformedBtnAdicionar(ActionEvent arg0) {
-		 
+		 "";
 		 
 	}
 	protected void actionPerformedBtnConsultar(ActionEvent arg0) {
